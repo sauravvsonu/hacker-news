@@ -5,7 +5,7 @@ Frontend runs on port 3000 and backend on port 5000 by default
 
 ### Github link
 
-https://github.com/sauravvsonu/hackerNews
+https://github.com/sauravvsonu/hacker-news
 
 Thanks for visiting
 Welcome Again
